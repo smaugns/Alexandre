@@ -1,0 +1,43 @@
+body{
+
+background-color: #ffffff;
+	
+
+
+}
+section#interface{
+
+
+
+}
+
+nav#menu {
+display:block;
+
+}
+nav#menu ul{
+width: 100%;
+background-color: green;
+text-align: left;
+
+}
+nav#menu li{
+    background-color: #606060;
+	display: inline-block;
+}
+footer#rodape{
+
+	clear: both;
+}
+figure {
+	width:30%;
+	height:30%;
+	
+}
+img{
+	width:30%;
+	height:30%;
+	
+	
+	
+}
